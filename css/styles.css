@@ -3,3 +3,28 @@ img {
   padding-top: 20px;
   padding-right: 20px;
 }
+
+/*.well img {
+  float: right;
+  width: 100px;
+  padding-right: 0px;
+}*/
+
+/*.well {
+  background-image: url("../img/ad.jpeg");
+  background-size: cover;
+}*/
+
+/*[class=well]:nth-of-type(even) {
+  background-image: url("../img/ad.jpeg");
+  background-size: cover;
+}*/
+
+[class=col-sm-4]:first-child {
+  background-image: url("../img/ad.jpeg");
+  background-size: cover;
+}
+
+/*div.col-sm-4::after{
+  background-image: url("../img/ad.jpeg");
+}*/
