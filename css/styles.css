@@ -20,10 +20,10 @@ img {
   background-size: cover;
 }*/
 
-[class=col-sm-4]:first-child {
+/*[class=col-sm-4]:first-child {
   background-image: url("../img/ad.jpeg");
   background-size: cover;
-}
+}*/
 
 /*div.col-sm-4::after{
   background-image: url("../img/ad.jpeg");
