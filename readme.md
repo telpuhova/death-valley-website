@@ -1,22 +1,24 @@
-# _death-valley-website_
+# death-valley-website
 
-#### _death valley website, 11/15/2017_
+death valley website, 11/15/2017
 
-#### By _**telpuhova**_
+**By Natalia Telpukhova**
 
 https://telpuhova.github.io/death-valley-website/
 
 ## Description
 
-_A website dedicated to Death valley national park._
+A website dedicated to Death valley national park.
 
 ## Setup
 
-* _clone repository_
-* _Open index.html in browser_
+* clone repository
+* open index.html in browser
 
 ## Technologies Used
 
-_HTML,CSS, Bootstrap_
+HTML,CSS, Bootstrap
 
-Copyright (c) 2017 **_telpuhova_**
+### License
+
+Copyright (c) 2017 Natalia Telpukhova
